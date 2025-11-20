@@ -45,6 +45,12 @@ img {
   color: #d80000; /* rojo elegante */
   letter-spacing: 0.06em;
   text-transform: uppercase;
+  text-decoration: none;
+  color: #d80000; /* el rojo que elegimos */
+}
+
+.logo:hover {
+  opacity: 0.8;
 }
 
 
@@ -295,3 +301,4 @@ img {
     grid-template-columns: 1fr;
   }
 }
+
